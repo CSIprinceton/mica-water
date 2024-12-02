@@ -12,4 +12,6 @@ train: The input files for DeepMD-kit;
 
 DP_models: The frozen DP models that can be used to run DPMD simulations.
 
-If you use this training data, please read and cite: Abhinav S. Raman and Annabella Selloni, Submitted, 2024
+If you use this training data, please read and cite: 
+
+Raman, A. S., & Selloni, A. (2024). An ab-initio deep neural network potential for accurate large-scale simulations of the muscovite mica-water interface. Molecular Physics. https://doi.org/10.1080/00268976.2024.2365430
